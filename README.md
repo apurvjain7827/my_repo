@@ -1,2 +1,2 @@
 # my_repo
-Repo for Hacktoberfest
+Repo for Hacktoberfest.
